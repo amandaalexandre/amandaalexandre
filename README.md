@@ -12,8 +12,6 @@ I am a front end developer who is also in love with the data side of things. I'm
 - 📫 How to reach me: 
 - 😄 Pronouns: she/her
 
-[![Amandag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaalexandre)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaalexandre&show_icons=true&theme=dark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaalexandre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amandaalexandre&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
