@@ -1,4 +1,4 @@
-# Amanda Vieira - Front End Developer
+# Amanda Alexandre - Front End Developer
 
 I am a front end developer who is also in love with the data side of things. I'm interested in React and data science.
 
