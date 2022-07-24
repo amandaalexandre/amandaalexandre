@@ -4,9 +4,6 @@ I am a front end developer who is also in love with the data side of things. I'm
 
  - :satellite: Physics Undergraduate Student at Universidade Federal do Maranhão
  - 💼 Business Bachelor at Universidade Estadual do Maranhão
- - 💽 Big Data Student at Uniasselvi
- - :chart: Data Analysis MBA Student at Descomplica
- - :shield: Data Security Post-graduate student at Descomplica
 
 ![Front End Portfolio](portfolio_cover.png)
 
