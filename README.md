@@ -11,9 +11,9 @@ I am a front end developer who is also in love with the data side of things. I'm
 [Click here to see my portfolio](https://amandaalexandre.github.io)
 
 - 🔭 I’m currently working on [Carbon Emissions Calculator](https://github.com/chingu-voyages/v40-geckos-team-18).
-- 🌱 I’m currently learning React and Data Science.
+- 🌱 I’m currently learning React, web3 and Data Science.
 - 💬 Ask me about CSS/HTML/SEO/Accessibility
-- 📫 How to reach me: 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amandavieiradev)
 - 😄 Pronouns: she/her
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandaalexandre&show_icons=true&theme=dark)
