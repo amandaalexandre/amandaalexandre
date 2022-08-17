@@ -2,6 +2,7 @@
 
 I am a front end developer who is also in love with the data side of things. I'm interested in React and data science.
 
+ - 📈 Big Data Student at Uniasselvi
  - :satellite: Physics Undergraduate Student at Universidade Federal do Maranhão
  - 💼 Business Bachelor at Universidade Estadual do Maranhão
 
@@ -9,7 +10,7 @@ I am a front end developer who is also in love with the data side of things. I'm
 
 [Click here to see my portfolio](https://amandaalexandre.github.io)
 
-- 🔭 I’m currently working on [React Meme Generator](https://github.com/amandaalexandre/react-meme-generator).
+- 🔭 I’m currently working on [Carbon Emissions Calculator](https://github.com/chingu-voyages/v40-geckos-team-18).
 - 🌱 I’m currently learning React and Data Science.
 - 💬 Ask me about CSS/HTML/SEO/Accessibility
 - 📫 How to reach me: 
