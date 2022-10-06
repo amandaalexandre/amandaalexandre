@@ -2,7 +2,7 @@
 
 I am a front end developer who is also in love with the data side of things. I'm interested in React and data science.
 
- - 📈 Big Data Student at Uniasselvi
+ - 📈 Consensys Scholar at Education DAO
  - :satellite: Physics Undergraduate Student at Universidade Federal do Maranhão
  - 💼 Business Bachelor at Universidade Estadual do Maranhão
 
