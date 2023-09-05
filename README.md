@@ -1,8 +1,8 @@
 # Amanda Alexandre - Front End Developer
 
-I am a front end developer who is also in love with the data side of things. I'm interested in React and data science.
+I am a data engineer and web developer who is also in love with the business side of things.
 
- - 📈 Big Data and Computter Science student
+ - 📈 Big Data and Computer Science student
  - 💼 Business Bachelor at Universidade Estadual do Maranhão
 
 ![Front End Portfolio](portfolio_cover.png)
