@@ -1,4 +1,4 @@
-# Amanda Alexandre - Front End Developer
+# Amanda Alexandre
 
 I am a data engineer and web developer who is also in love with the business side of things.
 
